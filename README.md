@@ -1,4 +1,4 @@
-# 櫛田 美怜 (Misato Kushida)
+# Misato Kushida
 
 ## データと AI で、業務を「仕組み」に変える
 
